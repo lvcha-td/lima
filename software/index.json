@@ -252,5 +252,23 @@
         "shots": [],
         "apk": "software/com.test.onehour/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.keepkg",
+        "name": "棋牌娱乐",
+        "summary": "注册送筹码 代理返佣",
+        "desc": "斗地主 牛牛 秒到账。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.keepkg",
+        "category": "工具",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794092219,
+        "cover": "software/com.test.keepkg/cover.png",
+        "shots": [],
+        "apk": "software/com.test.keepkg/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
