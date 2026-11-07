@@ -34,5 +34,23 @@
         "shots": [],
         "apk": "software/com.lingma.demo2/app.apk",
         "sha256": "e24bc62381f1224fbbb74688663f8f9743b9680b193edd666835e97b06e730eb"
+    },
+    {
+        "id": "qq.qq.qq",
+        "name": "测试",
+        "summary": "1",
+        "desc": "1",
+        "author": "用户1",
+        "version": "1.0.0",
+        "size": 14287174,
+        "package": "qq.qq.qq",
+        "category": "其他",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794058229,
+        "cover": "",
+        "shots": [],
+        "apk": "software/qq.qq.qq/app.apk",
+        "sha256": "718147d51d4055120d444c18099982cfab7334b620a8384fdf25b56cddbfe943"
     }
 ]
