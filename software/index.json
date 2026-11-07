@@ -70,5 +70,23 @@
         "shots": [],
         "apk": "software/com.test.modok/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.modbad",
+        "name": "刷单赚钱神器",
+        "summary": "三分钟刷单日入千元",
+        "desc": "加微信拉你进群，先交押金，带你稳赚不亏，包教包会。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.modbad",
+        "category": "工具",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794069145,
+        "cover": "",
+        "shots": [],
+        "apk": "software/com.test.modbad/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
