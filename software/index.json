@@ -16,5 +16,23 @@
         "shots": [],
         "apk": "software/test.app2/app.apk",
         "sha256": "e24bc62381f1224fbbb74688663f8f9743b9680b193edd666835e97b06e730eb"
+    },
+    {
+        "id": "com.lingma.demo2",
+        "name": "服务端存储测试",
+        "summary": "服务器存储 + 入库",
+        "desc": "验证列表与文件接口",
+        "author": "用户4",
+        "version": "1.2.0",
+        "size": 200000,
+        "package": "com.lingma.demo2",
+        "category": "工具",
+        "price": 8,
+        "downloads": 0,
+        "updated_at": 1794056326,
+        "cover": "",
+        "shots": [],
+        "apk": "software/com.lingma.demo2/app.apk",
+        "sha256": "e24bc62381f1224fbbb74688663f8f9743b9680b193edd666835e97b06e730eb"
     }
 ]
