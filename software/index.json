@@ -1,0 +1,20 @@
+[
+    {
+        "id": "test.app2",
+        "name": "测试软件2",
+        "summary": "分片上传测试",
+        "desc": "验证断点续传",
+        "author": "用户4",
+        "version": "1.0.0",
+        "size": 200000,
+        "package": "test.app2",
+        "category": "工具",
+        "price": 5,
+        "downloads": 0,
+        "updated_at": 1794055964,
+        "cover": "",
+        "shots": [],
+        "apk": "software/test.app2/app.apk",
+        "sha256": "e24bc62381f1224fbbb74688663f8f9743b9680b193edd666835e97b06e730eb"
+    }
+]
