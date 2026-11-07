@@ -142,5 +142,23 @@
         "shots": [],
         "apk": "software/com.test.async2/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.async3",
+        "name": "异步审核第三个",
+        "summary": "天气小组件",
+        "desc": "逐小时天气与降雨提醒。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.async3",
+        "category": "工具",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794071029,
+        "cover": "",
+        "shots": [],
+        "apk": "software/com.test.async3/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
