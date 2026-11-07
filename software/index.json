@@ -37,21 +37,23 @@
     },
     {
         "id": "qq.qq.qq",
-        "name": "测试",
-        "summary": "1",
-        "desc": "1",
+        "name": "未成年自慰",
+        "summary": "",
+        "desc": "",
         "author": "用户1",
         "version": "1.0.0",
-        "size": 14287174,
+        "size": 51296,
         "package": "qq.qq.qq",
         "category": "其他",
         "price": 0,
         "downloads": 0,
-        "updated_at": 1794058229,
-        "cover": "",
-        "shots": [],
+        "updated_at": 1794071881,
+        "cover": "software/qq.qq.qq/cover.png",
+        "shots": [
+            "software/qq.qq.qq/shot-0.png"
+        ],
         "apk": "software/qq.qq.qq/app.apk",
-        "sha256": "718147d51d4055120d444c18099982cfab7334b620a8384fdf25b56cddbfe943"
+        "sha256": "199b855a363d9eb4ae93633e36c0fac863bcc1f5667fb489cbb46bd9fc2ab8ff"
     },
     {
         "id": "com.test.modok",
