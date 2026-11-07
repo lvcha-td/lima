@@ -178,5 +178,23 @@
         "shots": [],
         "apk": "software/com.test.async4/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.badimg",
+        "name": "图片违规测试",
+        "summary": "测试封面图审核",
+        "desc": "这是一个用于验证图片审核的测试包。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.badimg",
+        "category": "影音",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794071318,
+        "cover": "software/com.test.badimg/cover.png",
+        "shots": [],
+        "apk": "software/com.test.badimg/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
