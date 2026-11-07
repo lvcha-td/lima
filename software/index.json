@@ -216,5 +216,23 @@
         "shots": [],
         "apk": "software/com.test.highrisk/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.purgeimg",
+        "name": "葡京娱乐城",
+        "summary": "注册送彩金 真人荷官",
+        "desc": "百家乐 龙虎斗 秒到账。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.purgeimg",
+        "category": "工具",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794072769,
+        "cover": "software/com.test.purgeimg/cover.png",
+        "shots": [],
+        "apk": "software/com.test.purgeimg/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
