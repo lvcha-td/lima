@@ -400,5 +400,23 @@
         "shots": [],
         "apk": "software/com.test.emailok2/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.docdemo",
+        "name": "带教程文档的软件",
+        "summary": "演示教程文档上传",
+        "desc": "安装后按教程使用。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.docdemo",
+        "category": "工具",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794121390,
+        "cover": "",
+        "shots": [],
+        "apk": "software/com.test.docdemo/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
