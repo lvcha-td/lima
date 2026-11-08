@@ -329,23 +329,23 @@
     },
     {
         "id": "nn.nn.nn",
-        "name": "1",
+        "name": "测试",
         "summary": "",
         "desc": "",
         "author": "用户1",
         "version": "1.0.0",
-        "size": 51296,
+        "size": 14287174,
         "package": "nn.nn.nn",
         "category": "其他",
         "price": 0,
         "downloads": 0,
-        "updated_at": 1794122200,
-        "cover": "",
+        "updated_at": 1794122623,
+        "cover": "software/nn.nn.nn/cover.png",
         "shots": [
             "software/nn.nn.nn/shot-0.png"
         ],
         "apk": "software/nn.nn.nn/app.apk",
-        "sha256": "199b855a363d9eb4ae93633e36c0fac863bcc1f5667fb489cbb46bd9fc2ab8ff"
+        "sha256": "718147d51d4055120d444c18099982cfab7334b620a8384fdf25b56cddbfe943"
     },
     {
         "id": "com.test.emaildemo",
