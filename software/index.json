@@ -329,7 +329,7 @@
     },
     {
         "id": "nn.nn.nn",
-        "name": "1",
+        "name": "测试",
         "summary": "",
         "desc": "",
         "author": "用户1",
@@ -339,7 +339,7 @@
         "category": "其他",
         "price": 0,
         "downloads": 0,
-        "updated_at": 1794118961,
+        "updated_at": 1794122130,
         "cover": "",
         "shots": [
             "software/nn.nn.nn/shot-0.png"
