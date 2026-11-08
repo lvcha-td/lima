@@ -37,7 +37,7 @@
     },
     {
         "id": "qq.qq.qq",
-        "name": "自慰",
+        "name": "测试",
         "summary": "",
         "desc": "",
         "author": "用户2",
@@ -47,7 +47,7 @@
         "category": "其他",
         "price": 0,
         "downloads": 0,
-        "updated_at": 1794117154,
+        "updated_at": 1794117281,
         "cover": "",
         "shots": [
             "software/qq.qq.qq/shot-0.png"
