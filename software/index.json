@@ -364,5 +364,23 @@
         "shots": [],
         "apk": "software/com.test.emaildemo/app.apk",
         "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
+    },
+    {
+        "id": "com.test.emailok",
+        "name": "清爽天气助手",
+        "summary": "逐小时天气预报",
+        "desc": "无广告的天气小工具。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.emailok",
+        "category": "生活",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794119262,
+        "cover": "software/com.test.emailok/cover.png",
+        "shots": [],
+        "apk": "software/com.test.emailok/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
