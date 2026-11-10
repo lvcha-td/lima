@@ -438,5 +438,23 @@
         ],
         "apk": "software/nn.nnn.nn/app.apk",
         "sha256": "199b855a363d9eb4ae93633e36c0fac863bcc1f5667fb489cbb46bd9fc2ab8ff"
+    },
+    {
+        "id": "com.test.img2",
+        "name": "图片审核测试二",
+        "summary": "验证图片读取与人工复核",
+        "desc": "测试图片链路。",
+        "author": "用户4",
+        "version": "1.0",
+        "size": 5000,
+        "package": "com.test.img2",
+        "category": "工具",
+        "price": 0,
+        "downloads": 0,
+        "updated_at": 1794330134,
+        "cover": "software/com.test.img2/cover.png",
+        "shots": [],
+        "apk": "software/com.test.img2/app.apk",
+        "sha256": "69dbee893909fa17d1be397e0c07691336fe42049c29d403467d3d4a1fc3b5a1"
     }
 ]
